@@ -12,7 +12,6 @@
       <set>
         <option value="inheritors" />
         <option value="problems" />
-        <option value="vcs.code.vision" />
       </set>
     </option>
   </component>
